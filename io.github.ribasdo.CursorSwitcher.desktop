@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Temas de Cursor
+Comment=Alterar o tema do cursor do mouse no COSMIC
+Exec=@BINDIR@/cosmic-cursor-switcher
+Icon=preferences-desktop-theme
+Terminal=false
+Categories=Settings;DesktopSettings;GTK;
+Keywords=cursor;mouse;ponteiro;tema;
+StartupNotify=true
