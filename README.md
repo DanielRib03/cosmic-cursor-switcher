@@ -16,7 +16,7 @@ desktop **COSMIC** do Pop!_OS.
 Requer `python3-gi`, GTK 4 e libadwaita, que já vêm no Pop!_OS 24.04.
 
 ```bash
-git clone https://github.com/<seu-usuario>/cosmic-cursor-switcher.git
+git clone https://github.com/DanielRib03/cosmic-cursor-switcher.git
 cd cosmic-cursor-switcher
 ./install.sh
 ```
