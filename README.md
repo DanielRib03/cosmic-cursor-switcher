@@ -36,3 +36,7 @@ Ao clicar em **Aplicar**, o tema e o tamanho são gravados em:
 
 O COSMIC só lê o tema do cursor no início da sessão, então o sistema inteiro só muda
 depois de encerrar a sessão. O app oferece um botão **Encerrar sessão** logo após aplicar.
+
+## Licença
+
+[MIT](LICENSE)
